@@ -13,8 +13,25 @@ st.set_page_config(
 # CABEÇALHO
 # ============================================================
 
-st.title("🎯 Prospector Total")
-st.markdown("### Seu centro de prospecção para Franquias e LinkedIn")
+# ============================================================
+# CABEÇALHO COM LOGO
+# ============================================================
+
+# Carregar e exibir o logo
+try:
+    from PIL import Image
+    logo = Image.open("logo.png")  # ou logo.jpg
+    col1, col2 = st.columns([1, 4])
+    with col1:
+        st.image(logo, width=80)
+    with col2:
+        st.title("Prospector Total")
+        st.markdown("### Seu centro de prospecção para Franquias e LinkedIn")
+except:
+    # Se não encontrar o logo, mostra só o título
+    st.title("🎯 Prospector Total")
+    st.markdown("### Seu centro de prospecção para Franquias e LinkedIn")
+
 st.markdown("---")
 
 # ============================================================
