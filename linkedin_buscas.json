@@ -1,0 +1,62 @@
+{
+  "data_geracao": "2026-05-18T23:41:06.542538",
+  "cargos": [
+    "gerente de compras",
+    "diretor de compras",
+    "coordenador de compras",
+    "gerente de suprimentos",
+    "diretor de suprimentos",
+    "supply chain manager",
+    "trade marketing",
+    "category manager",
+    "comprador senior",
+    "head de compras",
+    "gerente de supply chain"
+  ],
+  "links": [
+    {
+      "cargo": "gerente de compras",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=gerente%20de%20compras&location=Brasil"
+    },
+    {
+      "cargo": "diretor de compras",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=diretor%20de%20compras&location=Brasil"
+    },
+    {
+      "cargo": "coordenador de compras",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=coordenador%20de%20compras&location=Brasil"
+    },
+    {
+      "cargo": "gerente de suprimentos",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=gerente%20de%20suprimentos&location=Brasil"
+    },
+    {
+      "cargo": "diretor de suprimentos",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=diretor%20de%20suprimentos&location=Brasil"
+    },
+    {
+      "cargo": "supply chain manager",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=supply%20chain%20manager&location=Brasil"
+    },
+    {
+      "cargo": "trade marketing",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=trade%20marketing&location=Brasil"
+    },
+    {
+      "cargo": "category manager",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=category%20manager&location=Brasil"
+    },
+    {
+      "cargo": "comprador senior",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=comprador%20senior&location=Brasil"
+    },
+    {
+      "cargo": "head de compras",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=head%20de%20compras&location=Brasil"
+    },
+    {
+      "cargo": "gerente de supply chain",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=gerente%20de%20supply%20chain&location=Brasil"
+    }
+  ]
+}
