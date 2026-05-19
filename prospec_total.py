@@ -8,6 +8,19 @@ st.set_page_config(
     page_icon="🎯",
     layout="wide"
 )
+# Cabeçalho com logo
+try:
+    col1, col2 = st.columns([1, 4])
+    with col1:
+        st.image("WhatsApp Image 2026-05-19 at 08.27.01.jpeg", width=80)
+    with col2:
+        st.title("Prospector Total")
+        st.markdown("### Seu centro de prospecção para Franquias e LinkedIn")
+except:
+    st.title("🎯 Prospector Total")
+    st.markdown("### Seu centro de prospecção para Franquias e LinkedIn")
+
+st.markdown("---")
 
 # ============================================================
 # CABEÇALHO
